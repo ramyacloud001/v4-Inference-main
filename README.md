@@ -74,20 +74,11 @@ If you are currently running the YOLOv4 inference using OpenCV on a CPU, you may
 
 ## Support
 
-For support, email saikamal9797@gmail.com .
+For support, email ramyasri.adepu0107@gmail.com
 
 
 ## Acknowledgements
 
  - [Documentation](https://pjreddie.com/darknet/yolo/)
 
-
-## 🔗 Links
-
-For my work you can follow:
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kamal-korlakunta-a81326163/)
-
-[Medium](https://medium.com/@korlakuntasaikamal10)
 
